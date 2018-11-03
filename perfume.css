@@ -83,7 +83,11 @@ ul {
 	padding-left: 40px;
 }
 
-li {
+.lang {
+	float: right;
+}
+
+.left_ul {
     float: left;
 }
 
